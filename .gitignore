@@ -1,0 +1,9 @@
+# Database file (contains your local chat history, don't need to share it)
+chat_history.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings folder
+.vscode/
